@@ -1,8 +1,0 @@
-Retrive data from a file, so we need an upload file function. 
-    - Opens up a popup 
-    - Retrieves a csv file. 
-    - Inputs it in the frame in the manner that it is presented. 
-
-Completion
-    - Throws out a new file with the sorted data. 
-    
